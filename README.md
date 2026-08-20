@@ -31,11 +31,11 @@ Tamper detection using Blake3 checksum.
 
 Auto-save on exit (finally block ensures data is always saved).
 
-Reset Options
+Reset Options:
 
-Solo reset (resets single-player stats).
+- Solo reset (resets single-player stats).
 
-Full reset (optional: wipes save files and key for a fresh start).
+- Full reset (optional: wipes save files and key for a fresh start).
 
 ## 📂 Project Structure
 Code
