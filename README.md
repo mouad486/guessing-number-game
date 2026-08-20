@@ -66,7 +66,7 @@ Menu options:
 
 4 → Reset solo stats
 
-reset all → Full reset (wipe save + key)
+5 - reset all → Full reset (wipe save + key)
 
 5 → Quit
 
